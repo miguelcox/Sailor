@@ -151,7 +151,7 @@
 
           <div class="col-lg-6">
             <div class="section-title">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img img-responsive">
+              <img src="assets/img/portfolio/portfolio-2.jpg" width="100%" class="img img-responsive">
             </div>
             
           </div>
