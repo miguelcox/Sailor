@@ -49,8 +49,8 @@
       <nav class="nav-menu d-none d-lg-block">
 
         <ul>
-          <li class="active"><a href="index.html">Inicio</a></li>
-          <li><a href="about.html">Acerca de</a></li>
+          <li class="active"><a href="index.php">Inicio</a></li>
+          <li><a href="about.php">Acerca de</a></li>
           <li ><a href="#">Promociones</a>
           <li class="drop-down"><a href="#">Servicios</a>
             <ul>
@@ -77,7 +77,7 @@
             </ul>
           </li>
 
-          <li><a href="contact.html">Contacto</a></li>
+          <li><a href="contact.php">Contacto</a></li>
 
         </ul>
 
